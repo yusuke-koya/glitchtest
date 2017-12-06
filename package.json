@@ -1,0 +1,18 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "testtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "koya",
+  "license": "ISC"
+}
